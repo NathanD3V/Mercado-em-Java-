@@ -28,7 +28,7 @@ Copiar código
 javac SistemaMercado.java
 java SistemaMercado
 Estrutura do Código
-###O código foi estruturado de forma modular para facilitar a manutenção e futuras expansões. Ele pode ser adaptado conforme a necessidade, seja para incluir novas funcionalidades ou integrar com outros sistemas.
+### O código foi estruturado de forma modular para facilitar a manutenção e futuras expansões. Ele pode ser adaptado conforme a necessidade, seja para incluir novas funcionalidades ou integrar com outros sistemas.
 
 Contribuições
 Sinta-se à vontade para fazer fork deste repositório e contribuir com melhorias ou correções.
