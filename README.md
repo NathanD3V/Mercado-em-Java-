@@ -1,5 +1,5 @@
-Sistema de Mercado em Java
-Este é um sistema de mercado desenvolvido em Java, projetado para facilitar a gestão de produtos, controle de estoque e processamento de vendas. O sistema oferece funcionalidades essenciais para a administração de um mercado de forma eficiente e prática.
+## Sistema de Mercado em Java
+### Este é um sistema de mercado desenvolvido em Java, projetado para facilitar a gestão de produtos, controle de estoque e processamento de vendas. O sistema oferece funcionalidades essenciais para a administração de um mercado de forma eficiente e prática.
 
 Funcionalidades
 Cadastro de Produtos: Permite o registro de produtos com informações como nome, preço e quantidade disponível.
@@ -28,7 +28,7 @@ Copiar código
 javac SistemaMercado.java
 java SistemaMercado
 Estrutura do Código
-O código foi estruturado de forma modular para facilitar a manutenção e futuras expansões. Ele pode ser adaptado conforme a necessidade, seja para incluir novas funcionalidades ou integrar com outros sistemas.
+###O código foi estruturado de forma modular para facilitar a manutenção e futuras expansões. Ele pode ser adaptado conforme a necessidade, seja para incluir novas funcionalidades ou integrar com outros sistemas.
 
 Contribuições
 Sinta-se à vontade para fazer fork deste repositório e contribuir com melhorias ou correções.
